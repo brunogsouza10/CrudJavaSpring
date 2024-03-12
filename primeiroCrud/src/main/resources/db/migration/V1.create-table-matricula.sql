@@ -1,0 +1,10 @@
+CREATE TABLE matricula(
+
+id TEXT PRIMARY KEY UNIQUE NOT NULL,
+name TEXT NOT NULL,
+age INT NOT NULL,
+gender TEXT NOT NULL,
+city TEXT NOT NULL
+
+
+);
